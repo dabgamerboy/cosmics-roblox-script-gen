@@ -46,7 +46,7 @@ const App: React.FC = () => {
              alt="Roblox Logo"
           />
           <h1 className="text-3xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-300 via-white to-blue-300">
-            Lua Script Gen
+            Cosmics Lua Script Gen
           </h1>
         </div>
         <p className="text-slate-400 text-lg">
