@@ -1,0 +1,5 @@
+{
+  "name": "Roblox Lua Gen",
+  "description": "An AI-powered generator that creates optimization-ready Roblox Lua scripts from natural language prompts.",
+  "requestFramePermissions": []
+}
